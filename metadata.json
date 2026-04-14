@@ -1,0 +1,5 @@
+{
+  "name": "Visionary Voice",
+  "description": "A smart assistive app for visually impaired users featuring voice navigation, GPS guidance, and voice-based authentication.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
